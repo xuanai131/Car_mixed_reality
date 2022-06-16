@@ -1,0 +1,50 @@
+N.O: 104.
+Loai bien bao:
+Cam.
+Cam moto,
+xe gan may.
+N.O: 105.
+Loai bien bao:
+Cam.
+Cam oto, moto
+2 banh.
+N.O: 106a.
+Loai bien bao:
+Cam.
+Cam moi loai
+xe tai.
+N.O: 127.
+Loai bien bao: 
+Cam.
+Toc do toi da
+20 km/h.
+N.O: 134. 
+Loai bien bao:
+Cam.
+Het gioi han
+toc do 20 km/h.
+N.O: 135.
+Loai bien bao:
+Cam.
+Het moi gioi han
+cam.
+N.O: 207b.
+Loai bien bao:
+Nguy hiem.
+Giao nhau duong
+khong uu tien.
+N.O: 207c.
+Loai bien bao:
+Nguy hiem.
+Giao nhau duong
+khong uu tien.
+N.O: 306. 
+Loai bien bao:
+Hieu lenh.
+Toc do toi thieu 
+30 km/h.
+N.O: 245.
+Loai bien bao:
+Nguy hiem.
+Di chuyen toc 
+do cham.
